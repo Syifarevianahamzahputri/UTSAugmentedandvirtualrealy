@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Mount_Everest" size="100.000000 60.691143" />
+    <ImageTarget name="pohonn" size="100.000000 66.010635" />
+    <ImageTarget name="earth" size="100.000000 150.153839" />
+  </Tracking>
+</QCARConfig>
